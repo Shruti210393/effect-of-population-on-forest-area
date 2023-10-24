@@ -7,7 +7,7 @@ To analyze the effect of population explosion on Forest areas, I need data that 
 
 ## Architecture:-
 
-<img src="/imgs/Architechture of effect of Population on forest area Data Engineering Project.JPG" width="50%">
+<img src="/Imags/Architechture of effect of Population on forest area Data Engineering Project.JPG" width="50%">
 
 Data Source:- Found the World Bank Indicators page contains all relevant data.
 Link to access the indicators - https://data.worldbank.org/indicator
@@ -31,5 +31,4 @@ Azure Synapse:- Data transformations has been done by using different functions 
 4. Join operation to create 1 dataset.
 5. Sink to target location.
 
-
-
+Visualization:- For visualization,we can compare male and female population and analyse how the population explosion effected on Forest areas.
