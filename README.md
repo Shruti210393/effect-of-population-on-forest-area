@@ -7,7 +7,7 @@ To analyze the effect of population explosion on Forest areas, I need data that 
 
 ## Architecture:-
 
-<img src="/Imags/AArchitecture of effect of Population on forest area Project.JPG" width="50%">
+<img src="/Images/Architecture of effect of Population on forest area Project.JPG" width="50%">
 
 Data Source:- Found the World Bank Indicators page contains all relevant data.
 Link to access the indicators - https://data.worldbank.org/indicator
